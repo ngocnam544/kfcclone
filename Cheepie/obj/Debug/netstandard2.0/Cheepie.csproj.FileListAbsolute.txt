@@ -1,0 +1,16 @@
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\bin\Debug\netstandard2.0\Cheepie.deps.json
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\bin\Debug\netstandard2.0\Cheepie.dll
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\Cheepie.csprojAssemblyReference.cache
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\Pages\LoginPage.xaml.g.cs
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\Pages\SignUpPage.xaml.g.cs
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\Cheepie.AssemblyInfoInputs.cache
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\Cheepie.AssemblyInfo.cs
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\Cheepie.csproj.CoreCompileInputs.cache
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\Cheepie.dll
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\ref\Cheepie.dll
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\Cheepie.pdb
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\bin\Debug\netstandard2.0\ref\Cheepie.dll
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\bin\Debug\netstandard2.0\Cheepie.pdb
+D:\DoAnXamarin\Final\Cheepie\Cheepie\Cheepie\obj\Debug\netstandard2.0\XamlC.stamp
